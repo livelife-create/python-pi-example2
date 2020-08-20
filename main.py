@@ -3,7 +3,7 @@
    //print a message
 
 def main(msg):
-  //Adding a different comment
+  //Adding a different comment to this file.
   print(msg)
 
 
